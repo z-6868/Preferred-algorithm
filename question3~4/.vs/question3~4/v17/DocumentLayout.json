@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\The word of Pioneer\\Preferred-algorithm\\question3~4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4696B9-5024-4BD3-9CD8-0DDF8E3BB72B}|question3~4.vcxproj|D:\\The word of Pioneer\\Preferred-algorithm\\question3~4\\\u76DB\u6C34\u6700\u591A\u7684\u5BB9\u5668.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D4696B9-5024-4BD3-9CD8-0DDF8E3BB72B}|question3~4.vcxproj|solutionrelative:\u76DB\u6C34\u6700\u591A\u7684\u5BB9\u5668.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4696B9-5024-4BD3-9CD8-0DDF8E3BB72B}|question3~4.vcxproj|D:\\The word of Pioneer\\Preferred-algorithm\\question3~4\\\u5FEB\u4E50\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D4696B9-5024-4BD3-9CD8-0DDF8E3BB72B}|question3~4.vcxproj|solutionrelative:\u5FEB\u4E50\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u76DB\u6C34\u6700\u591A\u7684\u5BB9\u5668.cpp",
+              "DocumentMoniker": "D:\\The word of Pioneer\\Preferred-algorithm\\question3~4\\\u76DB\u6C34\u6700\u591A\u7684\u5BB9\u5668.cpp",
+              "RelativeDocumentMoniker": "\u76DB\u6C34\u6700\u591A\u7684\u5BB9\u5668.cpp",
+              "ToolTip": "D:\\The word of Pioneer\\Preferred-algorithm\\question3~4\\\u76DB\u6C34\u6700\u591A\u7684\u5BB9\u5668.cpp",
+              "RelativeToolTip": "\u76DB\u6C34\u6700\u591A\u7684\u5BB9\u5668.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-26T12:42:15.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u5FEB\u4E50\u6570.cpp",
+              "DocumentMoniker": "D:\\The word of Pioneer\\Preferred-algorithm\\question3~4\\\u5FEB\u4E50\u6570.cpp",
+              "RelativeDocumentMoniker": "\u5FEB\u4E50\u6570.cpp",
+              "ToolTip": "D:\\The word of Pioneer\\Preferred-algorithm\\question3~4\\\u5FEB\u4E50\u6570.cpp",
+              "RelativeToolTip": "\u5FEB\u4E50\u6570.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-26T12:41:01.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
