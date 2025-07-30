@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\The word of Pioneer\\Preferred-algorithm\\question9.10.13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE9946E-5E2B-4C51-88B4-D05DA8D58223}|question9.10.13.vcxproj|D:\\The word of Pioneer\\Preferred-algorithm\\question9.10.13\\\u6C34\u679C\u6210\u7BEE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EE9946E-5E2B-4C51-88B4-D05DA8D58223}|question9.10.13.vcxproj|solutionrelative:\u6C34\u679C\u6210\u7BEE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE9946E-5E2B-4C51-88B4-D05DA8D58223}|question9.10.13.vcxproj|D:\\The word of Pioneer\\Preferred-algorithm\\question9.10.13\\\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B50\u4E32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EE9946E-5E2B-4C51-88B4-D05DA8D58223}|question9.10.13.vcxproj|solutionrelative:\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B50\u4E32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE9946E-5E2B-4C51-88B4-D05DA8D58223}|question9.10.13.vcxproj|D:\\The word of Pioneer\\Preferred-algorithm\\question9.10.13\\\u957F\u5EA6\u6700\u5C0F\u7684\u5B50\u6570\u7EC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EE9946E-5E2B-4C51-88B4-D05DA8D58223}|question9.10.13.vcxproj|solutionrelative:\u957F\u5EA6\u6700\u5C0F\u7684\u5B50\u6570\u7EC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6C34\u679C\u6210\u7BEE.cpp",
+              "DocumentMoniker": "D:\\The word of Pioneer\\Preferred-algorithm\\question9.10.13\\\u6C34\u679C\u6210\u7BEE.cpp",
+              "RelativeDocumentMoniker": "\u6C34\u679C\u6210\u7BEE.cpp",
+              "ToolTip": "D:\\The word of Pioneer\\Preferred-algorithm\\question9.10.13\\\u6C34\u679C\u6210\u7BEE.cpp",
+              "RelativeToolTip": "\u6C34\u679C\u6210\u7BEE.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T12:31:03.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B50\u4E32.cpp",
+              "DocumentMoniker": "D:\\The word of Pioneer\\Preferred-algorithm\\question9.10.13\\\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B50\u4E32.cpp",
+              "RelativeDocumentMoniker": "\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B50\u4E32.cpp",
+              "ToolTip": "D:\\The word of Pioneer\\Preferred-algorithm\\question9.10.13\\\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B50\u4E32.cpp",
+              "RelativeToolTip": "\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B50\u4E32.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T12:30:26.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u957F\u5EA6\u6700\u5C0F\u7684\u5B50\u6570\u7EC4.cpp",
+              "DocumentMoniker": "D:\\The word of Pioneer\\Preferred-algorithm\\question9.10.13\\\u957F\u5EA6\u6700\u5C0F\u7684\u5B50\u6570\u7EC4.cpp",
+              "RelativeDocumentMoniker": "\u957F\u5EA6\u6700\u5C0F\u7684\u5B50\u6570\u7EC4.cpp",
+              "ToolTip": "D:\\The word of Pioneer\\Preferred-algorithm\\question9.10.13\\\u957F\u5EA6\u6700\u5C0F\u7684\u5B50\u6570\u7EC4.cpp",
+              "RelativeToolTip": "\u957F\u5EA6\u6700\u5C0F\u7684\u5B50\u6570\u7EC4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T12:29:39.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
