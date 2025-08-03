@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\The word of Pioneer\\Preferred-algorithm\\\u7801\u8E44\u676F\u7ADE\u8D5B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D881AE3-CA13-43A3-83D7-816CF5BD0DEB}|\u7801\u8E44\u676F\u7ADE\u8D5B.vcxproj|D:\\The word of Pioneer\\Preferred-algorithm\\\u7801\u8E44\u676F\u7ADE\u8D5B\\5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D881AE3-CA13-43A3-83D7-816CF5BD0DEB}|\u7801\u8E44\u676F\u7ADE\u8D5B.vcxproj|solutionrelative:5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D881AE3-CA13-43A3-83D7-816CF5BD0DEB}|\u7801\u8E44\u676F\u7ADE\u8D5B.vcxproj|D:\\The word of Pioneer\\Preferred-algorithm\\\u7801\u8E44\u676F\u7ADE\u8D5B\\\u4E00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D881AE3-CA13-43A3-83D7-816CF5BD0DEB}|\u7801\u8E44\u676F\u7ADE\u8D5B.vcxproj|solutionrelative:\u4E00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.cpp",
+              "DocumentMoniker": "D:\\The word of Pioneer\\Preferred-algorithm\\\u7801\u8E44\u676F\u7ADE\u8D5B\\5.cpp",
+              "RelativeDocumentMoniker": "5.cpp",
+              "ToolTip": "D:\\The word of Pioneer\\Preferred-algorithm\\\u7801\u8E44\u676F\u7ADE\u8D5B\\5.cpp",
+              "RelativeToolTip": "5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-03T08:04:26.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u4E00.cpp",
+              "DocumentMoniker": "D:\\The word of Pioneer\\Preferred-algorithm\\\u7801\u8E44\u676F\u7ADE\u8D5B\\\u4E00.cpp",
+              "RelativeDocumentMoniker": "\u4E00.cpp",
+              "ToolTip": "D:\\The word of Pioneer\\Preferred-algorithm\\\u7801\u8E44\u676F\u7ADE\u8D5B\\\u4E00.cpp",
+              "RelativeToolTip": "\u4E00.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-03T06:24:52.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
